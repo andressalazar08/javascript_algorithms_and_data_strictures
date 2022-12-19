@@ -1,1 +1,1 @@
-# javascript_algorithms_and_data_strictures
+# Javascript_algorithms_and_data_structures
